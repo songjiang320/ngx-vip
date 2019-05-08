@@ -1,6 +1,11 @@
 ## VIP Integration Details
 
-You can use the [editor on GitHub](https://github.com/songjiang320/vip/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/songjiang320/vip/edit/master/index.md) to maintain and preview the content for your 1. what frontend framework--> Angular4/5/6/7 Angular1+Angular7 React+Backbone ? one framework / hybird framework
+2. vip wrapper for setuping rationship between vip and target products
+3. vip implementation to cover serveral typcial scenorios in frontend code 
+4. unit test on local dev environment
+5. unit test on build env , it will has many configuration which needs you to deeply understand souce code 
+6. pull request on github which need to be familiar with git
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
