@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## VIP Integration Details
 
 You can use the [editor on GitHub](https://github.com/songjiang320/vip/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
