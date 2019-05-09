@@ -13,7 +13,7 @@ You can use the [editor on GitHub](https://github.com/songjiang320/vip/edit/mast
 take away from Anuradha origazition meeting
 1. staff engineer concerns about final string change , how to delevery translate in one or two days other than 2 weeks for SaaS product
 2. whether support react framework 
-3. about source file size and I provide us solution about lazy loading in terms of module or middleware
+3. about source file size and I provide our solution about lazy loading in terms of module or middleware
 4. I will demostrate how to use vip angular client
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
