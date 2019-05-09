@@ -1,6 +1,7 @@
 ## VIP Integration Details
 2019/5/8 in bangalore vmware office
-You can use the [editor on GitHub](https://github.com/songjiang320/vip/edit/master/index.md) to maintain and preview the content for your 
+You can use the [editor on GitHub](https://github.com/songjiang320/vip/edit/master/index.md)
+
 1. what frontend framework--> Angular4/5/6/7 Angular1+Angular7 React+Backbone ? one framework / hybird framework
 2. vip wrapper for setuping rationship between vip and target products
 3. vip implementation to cover serveral typcial scenorios in frontend code 
