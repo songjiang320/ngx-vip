@@ -1,11 +1,19 @@
 ## VIP Integration Details
-
-You can use the [editor on GitHub](https://github.com/songjiang320/vip/edit/master/index.md) to maintain and preview the content for your 1. what frontend framework--> Angular4/5/6/7 Angular1+Angular7 React+Backbone ? one framework / hybird framework
+2019/5/8 in bangalore vmware office
+You can use the [editor on GitHub](https://github.com/songjiang320/vip/edit/master/index.md) to maintain and preview the content for your 
+1. what frontend framework--> Angular4/5/6/7 Angular1+Angular7 React+Backbone ? one framework / hybird framework
 2. vip wrapper for setuping rationship between vip and target products
 3. vip implementation to cover serveral typcial scenorios in frontend code 
 4. unit test on local dev environment
 5. unit test on build env , it will has many configuration which needs you to deeply understand souce code 
 6. pull request on github which need to be familiar with git
+
+2019/5/9 in bangalore vmware office
+take away from Anuradha origazition meeting
+1. staff engineer concerns about final string change , how to delevery translate in one or two days other than 2 weeks for SaaS product
+2. whether support react framework 
+3. about source file size and I provide us solution about lazy loading in terms of module or middleware
+4. I will demostrate how to use vip angular client
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
